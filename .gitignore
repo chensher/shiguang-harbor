@@ -1,0 +1,7 @@
+# 个人存档与 API Key —— 永远不要上传
+data.json
+data.backup.json
+reading.json
+*.tmp
+.DS_Store
+__pycache__/
